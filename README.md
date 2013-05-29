@@ -1,13 +1,2 @@
-# clj-esp
+The code from my [Event Stream Processing with Clojure and Esper Tutorial](http://patternhatch.com/2013/05/29/event-stream-processing-using-clojure-and-esper/) at [patternhatch.com](http://patternhatch.com/).
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
